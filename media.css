@@ -1,0 +1,288 @@
+.head1{
+    height: 500px;
+    width: 100%;
+    background: linear-gradient(rgba(73, 136, 213, 0.934), rgb(15, 212, 222),rgba(1, 16, 19, 0.647));
+    position: absolute;
+    
+    
+    
+}
+.head1 h1{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    color: bisque;
+}
+.ex1 li{
+    list-style: none;
+    display: inline;
+    margin-left: 50px;
+    
+    
+    
+}
+.ex1{
+    margin-left: 400px;
+    margin-top: -40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.ex2{
+    font-size: 20px;
+    color: rgb(249, 255, 255);
+    
+}
+.ex3 h1{
+    margin-left: 550px;
+    margin-top: 50px;
+   font-family: sans-serif;
+   font-weight: bold;
+   font-size: 40px;
+   color: rgba(226, 242, 244, 0.981);
+
+}
+.ex3 h5{
+    margin-left: 650px;
+    padding-bottom: 80px;
+   font-family: sans-serif;
+   font-weight: bold;
+   color: rgba(221, 237, 239, 0.659);
+
+}
+.ex4{
+    margin-left: 430px;
+    margin-top: 180px;
+    width: 650px;
+    height: 50px;
+    border: 2px solid wheat;
+    border-radius: 50px;
+    background: rgb(216, 216, 219);
+    border-color: transparent;
+    
+    
+
+}
+.ex3{
+    float: left;
+}
+.ex4 button{
+    margin-top: 13px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: bold;
+  background-color: aqua;
+    border-radius: 5px ;
+    position: relative;
+   text-decoration: none;
+   transition: 0.3s ease all;
+   z-index: 1;
+   
+
+}
+.head2{
+    border: 2px solid transparent;
+    height: 410px;
+    width: 400px;
+    position: relative;
+    margin-left: 500px;
+    top: 450px;
+    background-color: white;
+    border-radius: 20px;
+    right: 20%;
+
+   
+    
+}
+.head3{
+    border: 0px solid transparent;
+    height: 400px;
+    width: 550px;
+    position: absolute;
+    margin-left: 500px;
+    top: 458px;
+    background-color: white;
+    border-radius: 20px;
+    left: 400px;
+ 
+}
+.head2 h1,h3{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.head2 img{
+    height: 200px;
+    width: 400px;
+}
+.head3 img{
+    height: 400px;
+    width: 550px;
+    border-radius: 20px;
+}
+.head4{
+  height: 900px;
+  width: 100%;
+  background: linear-gradient(rgba(10, 1, 1, 0.934), rgb(35, 135, 153),rgba(87, 101, 108, 0.259));
+  border-radius: 40px;
+ 
+}
+.head5 h1{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.head5 li{
+    display: inline;
+    margin-left: 50px;
+    
+}
+.ex5{
+    margin-left: 430px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.ex6{
+    border: 2px solid transparent;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 300px; 
+    font-family: sans-serif;
+
+}
+.ex7{
+    border: 2px solid transparent;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+    font-family: sans-serif;
+    
+
+}
+.ex8{
+    border: 2px solid transparent;
+    height: 300px;
+    width: 300px;
+    margin-left: 1000px;
+    font-family: sans-serif;
+ 
+    
+}
+.head6{
+    margin-left: 0px;
+    
+   
+    
+}
+.im1{
+    height: 150px;
+    width: 200px;
+
+}
+
+.im2{
+    height: 150px;
+    width: 200px;
+}
+
+.im3{
+    height: 150px;
+    width: 100px;
+}
+.head7{
+    height: 400px;
+    width: 100%;
+    background-color: beige;
+    position: absolute;
+}
+
+.ex9 li{
+    list-style: none;
+    padding-left: 500px;
+    
+}
+.ex9 li{
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top:130px ;
+    margin-left: -400px;
+}
+
+.ex10 li{
+    font-size: 13px;
+    list-style: none;
+    margin-left: 200px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-bottom: 6px;
+}
+
+button{
+    margin-left: 1400px;
+
+}
+.ex9{
+    font-size: 35px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 55px;
+
+}
+
+.head8{
+    border: 2px solid black;
+    height: 300px;
+    width: 100%;
+    margin-top: -10px;
+}
+.ex12{
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.ex13{
+    margin-left: 350px;
+    margin-top: -30px;
+    font-size: 30px;
+}
+
+.ex14{
+    margin-left: 310px;
+    color: darkgreen;
+}
+
+.ex15{
+    margin-left: 700px;
+    margin-top: -190px;
+    font-size: 30px;
+}
+
+.ex16{
+    margin-left: 660px;
+    color: darkgreen;
+}
+
+.ex17{
+    margin-left: -300px;
+    margin-top: -108px;
+}
+
+.ex17 button{
+    font-size: 20px;
+}
+
+.ex18{
+    margin-left: 1060px;
+}
+
+.ex18 h5{
+     margin-left: 60px;
+     margin-top: -16px;
+     color: darkgreen;
+}
